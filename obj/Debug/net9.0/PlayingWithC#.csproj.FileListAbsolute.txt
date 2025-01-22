@@ -1,0 +1,14 @@
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/bin/Debug/net9.0/PlayingWithC#
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/bin/Debug/net9.0/PlayingWithC#.deps.json
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/bin/Debug/net9.0/PlayingWithC#.runtimeconfig.json
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/bin/Debug/net9.0/PlayingWithC#.dll
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/bin/Debug/net9.0/PlayingWithC#.pdb
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/PlayingWithC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/PlayingWithC#.AssemblyInfoInputs.cache
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/PlayingWithC#.AssemblyInfo.cs
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/PlayingWithC#.csproj.CoreCompileInputs.cache
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/PlayingWithC#.dll
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/refint/PlayingWithC#.dll
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/PlayingWithC#.pdb
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/PlayingWithC#.genruntimeconfig.cache
+/Users/calvingaiennie/Documents/GitHub/PlayingWithC#/obj/Debug/net9.0/ref/PlayingWithC#.dll
