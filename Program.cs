@@ -18,6 +18,15 @@
 
 using System;
 using System.Text.Json.Nodes;
+
+public class UserData
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public int Year { get; set; }
+    public string Status { get; set; }
+    public string Choice { get; set; }
+}
 class Program 
 {    
     static void Main() 
@@ -59,6 +68,11 @@ class Program
             Year = now.Year
         };
         string jsonString = System.Text.Json.JsonSerializer.Serialize(userData);
-        File.WriteAllText("userInfo.txt", jsonString);
+        File.AppendAllText("userInfo.txt", jsonString);
+        string fileContent = File.ReadAllText("userInfo.txt");
+
+         UserData deserializedData = System.Text.Json.JsonSerializer.Deserialize<UserData>(fileContent);
+
+         Console.WriteLine(deserializedData);
     }
-}
+}       
