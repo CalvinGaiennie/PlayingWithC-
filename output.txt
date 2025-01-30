@@ -1,4 +1,1 @@
-ok 
-now what 
-cool shit huh 
-idk what im gonna build with this but im happy it works 
+[{"Date":"01/29/2025","Input":"hello"},{"Date":"01/29/2025","Input":"whats up"},{"Date":"01/29/2025","Input":"whats going on"}]
